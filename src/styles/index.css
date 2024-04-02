@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card{
+    background-color: grey;
+    color: black;
+    margin: 2px;
+    height: 250px;
+  width: 200px;
+  text-align: center;
+  border-radius: 50%;
+
+}
+
+
+p{
+    padding: auto;
+    margin: auto;
+}
